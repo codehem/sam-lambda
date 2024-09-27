@@ -34,7 +34,7 @@ To use the SAM CLI, you need the following tools.
 * Node.js - [Install Node.js 18](https://nodejs.org/en/), including the NPM package management tool.
 * Docker - [Install Docker community edition](https://hub.docker.com/search/?type=edition&offering=community)
 
-To build and deploy your application for the first time, run the following in your shell:
+To build and deploy your application for the first time, run following in your shell:
 
 ```bash
 sam build
